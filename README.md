@@ -1,2 +1,2 @@
-# Umel-inteligencia
+# Umela-inteligencia
 Niektore moje zaujimave projekty tykajuce sa umelej inteligencie
