@@ -6,6 +6,7 @@ Algoritmus simuluje evolúciu: populácia trás sa postupne zlepšuje pomocou se
 ![bestRoute](images/bestRoute.png)
 
 ## Konvergencia algoritmu
+(pri spustení 10 behov po sebe, čiernou je aj priemer)
 ![Konvergencia](images/convergence.png)
 
 ## Ukážka výpisu programu
